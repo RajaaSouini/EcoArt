@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ligne : autre 
+=======
+ligne hhhhhhh 
+>>>>>>> f80b573 (modif du dev)
